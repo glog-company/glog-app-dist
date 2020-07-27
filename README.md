@@ -4,6 +4,8 @@ GLOG Beta
 
 "GLOG Beta" 앱을 사용하는 유저들과 실시간으로 같이 롤을 플레이 할 수 있습니다.
 
+웹버전 - https://glog.gg/lfg
+
 [다운로드](https://github.com/glog-company/glog-app-dist/releases/tag/v0.5 "Download link")
 <br /><br />
 
